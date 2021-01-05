@@ -1,5 +1,6 @@
 # Cesium-JS
 Cesium JS
+[Link to documentation and tutorial](https://cesium.com/docs/tutorials/cesium-workshop/)  
 ## Setup
 Just a few setup steps before we can get to development.
 
